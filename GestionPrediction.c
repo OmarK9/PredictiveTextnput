@@ -330,9 +330,4 @@ void afficherListe(Liste *liste){
 
 }
 
-int main(void){
 
-return 1;
-
-printf("Compilation succeded!!\n");
-}
