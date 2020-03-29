@@ -7,9 +7,7 @@ C application that allows intuitive text input:
 
 
 This application runs on Linux environement
-```bash
-pip3 install plotly wxPython pandas python-igraph PIL matplotlib
-```
+
 
 ## Installation
 Download the ZIP folder from this repository
