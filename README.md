@@ -6,7 +6,7 @@ C application that allows intuitive text input:
 ## Software Requirements
 
 
-This application runs on Linux environement
+This application runs on Linux environment
 
 
 ## Installation
